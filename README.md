@@ -1,5 +1,7 @@
 # SIMULATION OF LOGIC GATES, ADDERS AND SUBRACTORS USING VIVADO
-AIM: To simulate and synthesis Logic Gates,Adders and Subtractor using vivado.
+AIM: 
+
+To simulate and synthesis Logic Gates,Adders and Subtractor using vivado.
 
 APPARATUS REQUIRED: 
 
@@ -73,6 +75,7 @@ endmodule
 OUTPUT:
 
 ![WhatsApp Image 2024-04-01 at 14 19 50](https://github.com/harikaran814/VLSI-LAB-EXP-1/assets/164861651/d761016b-56d4-47ec-9d75-5af644c626a3)
+
 ![WhatsApp Image 2024-04-01 at 14 19 40](https://github.com/harikaran814/VLSI-LAB-EXP-1/assets/164861651/8b277866-b2b8-4da3-89d0-954b778a908a)
 
 
@@ -90,6 +93,7 @@ endmodule
 OUTPUT:
 
 ![WhatsApp Image 2024-04-01 at 14 19 37](https://github.com/harikaran814/VLSI-LAB-EXP-1/assets/164861651/116d70f4-b698-4d9a-aa13-9c1988b417fe)
+
 ![WhatsApp Image 2024-04-01 at 14 19 36 (1)](https://github.com/harikaran814/VLSI-LAB-EXP-1/assets/164861651/6642c69c-a68d-42fb-98ee-e2ea36025630)
 
 
@@ -113,6 +117,7 @@ endmodule
 
 OUTPUT :
 ![WhatsApp Image 2024-04-01 at 14 19 36](https://github.com/harikaran814/VLSI-LAB-EXP-1/assets/164861651/a7106ba1-5c5f-4c4d-9d31-66dbad63ce53)
+
 ![WhatsApp Image 2024-04-01 at 14 19 39](https://github.com/harikaran814/VLSI-LAB-EXP-1/assets/164861651/9b5a3e2f-13fc-4a0d-9413-061eeaf3bbef)
 
 
@@ -133,6 +138,7 @@ endmodule
 OUTPUT:
 
 ![WhatsApp Image 2024-04-01 at 14 19 35](https://github.com/harikaran814/VLSI-LAB-EXP-1/assets/164861651/c2a77dc5-d2be-4a6d-8746-d587cd33f165)
+
 ![WhatsApp Image 2024-04-01 at 14 19 46](https://github.com/harikaran814/VLSI-LAB-EXP-1/assets/164861651/f05b66ef-4a79-4520-9751-51004d87db10)
 
 
@@ -156,6 +162,7 @@ endmodule
 OUTPUT :
 
 ![WhatsApp Image 2024-04-01 at 14 19 50 (2)](https://github.com/harikaran814/VLSI-LAB-EXP-1/assets/164861651/0943900d-f719-4d70-8365-347baf71d8a8)
+
 ![WhatsApp Image 2024-04-01 at 14 19 46 (1)](https://github.com/harikaran814/VLSI-LAB-EXP-1/assets/164861651/72507552-3a34-4f9b-9e30-5bdf9b0c92ca)
 
 
@@ -193,6 +200,7 @@ endmodule
 OUTPUT :
 
 ![WhatsApp Image 2024-04-01 at 14 19 50 (3)](https://github.com/harikaran814/VLSI-LAB-EXP-1/assets/164861651/17dbf7a9-a78c-4fc7-89c3-fe940920a391)
+
 ![WhatsApp Image 2024-04-01 at 14 19 39 (1)](https://github.com/harikaran814/VLSI-LAB-EXP-1/assets/164861651/a404cdfd-d668-4454-96c0-362af02cd11a)
 
 
@@ -230,6 +238,7 @@ endmodule
 OUTPUT :
 
 ![WhatsApp Image 2024-04-01 at 14 19 37 (1)](https://github.com/harikaran814/VLSI-LAB-EXP-1/assets/164861651/40d226f6-3670-4f58-9a4d-6ecafbe1f280)
+
 ![WhatsApp Image 2024-04-01 at 14 19 37 (2)](https://github.com/harikaran814/VLSI-LAB-EXP-1/assets/164861651/19f56c9b-3449-40f9-b5a6-22678a165522)
 
 
